@@ -14,3 +14,9 @@ The camera-ready paper will be available shortly.
     year = {2025},
 }
 ```
+
+## Why "VERITE"?
+
+![verite](./verite.jpeg)
+
+One of the goals when building the fuzzer is ruling out any possible false positives while revealing the maximum profits. This exactly matches ["Your credible source of the unbelievable truth!"](https://www.hoyolab.com/article/21858357).
