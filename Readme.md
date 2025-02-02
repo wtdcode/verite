@@ -6,9 +6,9 @@ The camera-ready paper will be available shortly.
 
 ## Cite
 
-```
+```bibtex
 @inproceedings{verite,
-    author = {Ziqiao Kong, Cen Zhang, Maoyi Xie, Ming Hu, Yue Xue, Ye Liu, Haijun Wang, Yang Liu},
+    author = {Ziqiao Kong and Cen Zhang and Maoyi Xie and Ming Hu and Yue Xue and Ye Liu and Haijun Wang and Yang Liu},
     title = {Smart Contract Fuzzing Towards Profitable Vulnerabilities},
     booktitle = {The ACM International Conference on the Foundations of Software Engineering (FSE)},
     year = {2025},
