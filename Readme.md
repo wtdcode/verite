@@ -1,8 +1,8 @@
 # VERITE
 
-This repo will contain the material for our FSE'25 paper "Smart Contract Fuzzing Towards Profitable Vulnerabilities".
+This repo will contain the materials for our FSE'25 paper "Smart Contract Fuzzing Towards Profitable Vulnerabilities".
 
-The camera-ready paper will be available shortly.
+Camera-ready paper is [available](./paper.pdf).
 
 ## Cite
 
