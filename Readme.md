@@ -4,7 +4,7 @@ This repo will contain the materials for our FSE'25 paper "Smart Contract Fuzzin
 
 Camera-ready paper is [available](./paper.pdf).
 
-The slides of presentation is [available][https://github.com/wtdcode/mytalks/blob/master/FSE25.pdf].
+The slides of presentation is [available](https://github.com/wtdcode/mytalks/blob/master/FSE25.pdf).
 
 ## Cite
 
